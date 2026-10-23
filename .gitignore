@@ -1,0 +1,22 @@
+
+# Archivos compilados de Java
+*.class
+
+# Carpetas de compilación
+build/
+dist/
+out/
+target/
+
+# Configuración privada de NetBeans
+nbproject/private/
+
+# Configuración de IntelliJ IDEA
+.idea/
+
+# Configuración de Visual Studio Code
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
